@@ -2,9 +2,9 @@
 
 ## Student Name  : Kyle Harvey
 
-## Student ID    : 915139815
+## Student ID    : 
 
-## Student Email : kharvey1@mail.sfsu.edu
+## Student Email : 
 
 ### Note failure to completely fill out this README.md could cause you to recieve a  0 for your project until correctly done
 
